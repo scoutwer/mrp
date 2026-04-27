@@ -9,7 +9,7 @@ import random
 class ReactiveMRPApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("System MRP - Panel Planisty z Magazynem i Easter Eggiem")
+        self.root.title("System MRP")
         self.root.geometry("1400x850")
         self.root.configure(bg="#f4f6f9")
         
